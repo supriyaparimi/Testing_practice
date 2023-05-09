@@ -1,0 +1,74 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "",
+      "location": "india",
+      "phone": "",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "",
+      "location": "india",
+      "phone": "",
+      "courses": [
+        "java",
+        "python"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "",
+      "location": "india",
+      "phone": "",
+      "courses": [
+        "sql",
+        "python"
+      ]
+    },
+    {
+      "name": "supriya",
+      "location": "America",
+      "phone": "1234567890",
+      "courses": [
+        "UI ",
+        "devops"
+      ],
+      "id": "XAFU8RM"
+    },
+    {
+      "name": "supriya",
+      "location": "india",
+      "phone": "1234567890",
+      "courses": [
+        "UI developer",
+        "devops"
+      ],
+      "id": "BgvTmqN"
+    },
+    {
+      "name": "supriya",
+      "location": "America",
+      "phone": "1234567890",
+      "courses": [
+        "UI developer",
+        "devops"
+      ],
+      "id": "DQHuMIK"
+    },
+    {
+      "name": "supriya",
+      "location": "America",
+      "phone": "1234567890",
+      "courses": [
+        "UI",
+        "devops"
+      ],
+      "id": "lyOELu0"
+    }
+  ]
+}
